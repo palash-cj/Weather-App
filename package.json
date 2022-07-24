@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "creating a weather node js app",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "node index.js"
+  },
+  "author": "Palash Jamaiwar",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
